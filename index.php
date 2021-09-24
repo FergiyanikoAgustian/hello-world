@@ -1,3 +1,1 @@
-<?php echo "TEST"; ?>
-
-fel lo ndak sayang sm per
+<?php include_once(“home.html”); ?>
