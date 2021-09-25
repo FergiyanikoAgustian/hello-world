@@ -16,7 +16,14 @@ p {
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
-.center {
+#sylvana {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 25%;
+}
+
+#tangy {
   display: block;
   margin-left: auto;
   margin-right: auto;
