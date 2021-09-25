@@ -18,6 +18,7 @@ p {
 
 .row {
   display: flex;
+  height: 120px;
 }
 
 .column {
